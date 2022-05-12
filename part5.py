@@ -12,7 +12,7 @@ Hello, Ash Ketchum
 
 '''
 #start writing your code below
-firstname = input(str("Enter your first name: "))
-lastname = input(str("Enter your last name: "))
+firstname = input(str("What is your first name? "))
+lastname = input(str("What is your last name? "))
 
 print("Hello,", str(firstname), str(lastname))
